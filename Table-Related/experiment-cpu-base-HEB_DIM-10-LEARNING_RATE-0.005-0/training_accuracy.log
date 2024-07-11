@@ -1,0 +1,13 @@
+2024-07-10 14:09:14,805 || INFO       || 234  || _base_test      || Samples Seen: 0 || Dataset: 'MNIST' || Train Accuracy: 0.06221666559576988
+2024-07-10 14:09:21,740 || INFO       || 234  || _base_test      || Samples Seen: 1 || Dataset: 'MNIST' || Train Accuracy: 0.03883333504199982
+2024-07-10 14:09:28,730 || INFO       || 234  || _base_test      || Samples Seen: 3 || Dataset: 'MNIST' || Train Accuracy: 0.03901666775345802
+2024-07-10 14:09:35,737 || INFO       || 234  || _base_test      || Samples Seen: 9 || Dataset: 'MNIST' || Train Accuracy: 0.04001666605472565
+2024-07-10 14:09:42,632 || INFO       || 234  || _base_test      || Samples Seen: 27 || Dataset: 'MNIST' || Train Accuracy: 0.04176666587591171
+2024-07-10 14:09:49,693 || INFO       || 234  || _base_test      || Samples Seen: 81 || Dataset: 'MNIST' || Train Accuracy: 0.0515500009059906
+2024-07-10 14:09:56,694 || INFO       || 234  || _base_test      || Samples Seen: 243 || Dataset: 'MNIST' || Train Accuracy: 0.055149998515844345
+2024-07-10 14:10:03,872 || INFO       || 234  || _base_test      || Samples Seen: 729 || Dataset: 'MNIST' || Train Accuracy: 0.13596667349338531
+2024-07-10 14:10:11,570 || INFO       || 234  || _base_test      || Samples Seen: 2187 || Dataset: 'MNIST' || Train Accuracy: 0.21924999356269836
+2024-07-10 14:10:20,111 || INFO       || 234  || _base_test      || Samples Seen: 6561 || Dataset: 'MNIST' || Train Accuracy: 0.44046667218208313
+2024-07-10 14:10:31,962 || INFO       || 234  || _base_test      || Samples Seen: 19683 || Dataset: 'MNIST' || Train Accuracy: 0.5313500165939331
+2024-07-10 14:10:52,505 || INFO       || 234  || _base_test      || Samples Seen: 59049 || Dataset: 'MNIST' || Train Accuracy: 0.6163333058357239
+2024-07-10 14:10:59,883 || INFO       || 234  || _base_test      || Samples Seen: 60000 || Dataset: 'MNIST' || Train Accuracy: 0.6176333427429199

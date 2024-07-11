@@ -1,0 +1,26 @@
+2024-07-10 14:12:54,877 || INFO       || 298  || _param_start_log || Experiment Type: Base
+2024-07-10 14:12:54,877 || INFO       || 299  || _param_start_log || Device: CPU
+2024-07-10 14:12:54,877 || INFO       || 300  || _param_start_log || Input Dimension: 784
+2024-07-10 14:12:54,877 || INFO       || 301  || _param_start_log || Hebbian Layer Dimension: 10
+2024-07-10 14:12:54,877 || INFO       || 302  || _param_start_log || Outout Dimension: 10
+2024-07-10 14:12:54,877 || INFO       || 303  || _param_start_log || Hebbian Layer Lambda: 15.0
+2024-07-10 14:12:54,877 || INFO       || 304  || _param_start_log || Hebbian Layer Gamma: 0.99
+2024-07-10 14:12:54,877 || INFO       || 305  || _param_start_log || Hebbian Layer Epsilon: 0.01
+2024-07-10 14:12:54,877 || INFO       || 306  || _param_start_log || Hebbian Layer Sigmoid K: 1.0
+2024-07-10 14:12:54,877 || INFO       || 307  || _param_start_log || Learning Rule: Orthogonal
+2024-07-10 14:12:54,877 || INFO       || 308  || _param_start_log || Inhibition Rule: Relu
+2024-07-10 14:12:54,877 || INFO       || 309  || _param_start_log || Weight Growth: Linear
+2024-07-10 14:12:54,877 || INFO       || 310  || _param_start_log || Network Learning Rate: 0.0005
+2024-07-10 14:12:54,877 || INFO       || 311  || _param_start_log || Alpha: 0.0
+2024-07-10 14:12:54,877 || INFO       || 312  || _param_start_log || Beta: 1.0
+2024-07-10 14:12:54,877 || INFO       || 313  || _param_start_log || Sigma: 1.0
+2024-07-10 14:12:54,877 || INFO       || 314  || _param_start_log || Mu: 0.0
+2024-07-10 14:12:54,877 || INFO       || 315  || _param_start_log || Param Init: Uniform
+2024-07-10 14:12:54,877 || INFO       || 316  || _param_start_log || Start time of experiment: 2024-07-10 14h:12m:54s
+2024-07-10 14:14:47,233 || INFO       || 331  || _final_test_log || Training accuracy of model after training for 1 epochs: 0.4865666627883911
+2024-07-10 14:14:47,233 || INFO       || 332  || _final_test_log || Testing accuracy of model after training for 1 epochs: 0.4959000051021576
+2024-07-10 14:14:47,233 || INFO       || 322  || _param_end_log  || End time of experiment: 2024-07-10 14h:14m:47s
+2024-07-10 14:14:47,233 || INFO       || 323  || _param_end_log  || Runtime of experiment: 0h:1m:52s
+2024-07-10 14:14:47,233 || INFO       || 324  || _param_end_log  || Total train time of experiment: 0h:0m:21s
+2024-07-10 14:14:47,233 || INFO       || 325  || _param_end_log  || Total test time (test acc) of experiment: 0h:0m:9s
+2024-07-10 14:14:47,233 || INFO       || 326  || _param_end_log  || Total test time (train acc) of experiment: 0h:0m:54s
